@@ -1,0 +1,7 @@
+.dialog-window input {
+  display: block;
+  
+}
+input:read-only {
+  color:grey;
+}

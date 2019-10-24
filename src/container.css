@@ -1,0 +1,51 @@
+.container {
+  border:1px solid black;
+  width:1000px;
+
+}
+
+.item-container {
+  display: flex;
+  flex-direction: column;
+}
+.item-header{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.item-elem {
+  display: flex;
+  border:1px solid black;
+}
+.item_country {
+  width:100px;
+}
+.item_id {
+  width:100px;
+}
+.item_name {
+  width:100px;
+}
+.item_rating {
+  width:100px;
+}
+.item_twitter {
+  width:400px;
+}
+.item_time {
+  width:100px;
+}
+h3 
+.item-elem {
+  display:flex;
+  flex-direction: column;
+}
+div {
+  margin-right: 16px;
+}
+.item-header {
+  display:flex;
+}
+.Buttons{
+  display: flex;
+}
